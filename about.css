@@ -1,0 +1,42 @@
+#about {
+	background-color: white;
+}
+#about h2 {
+	color: orange;
+}
+#about hr {
+	background: orange;
+}
+#about_1 {
+	margin-bottom: 10px;
+	padding: 15px;
+	min-height: 350px;
+	font-weight: 600;
+	font-size: 21px;
+	font-family: "Times New Roman", Times, serif;
+	justify-content: center;
+	align-items: center;
+}
+#about_1 p {
+	padding: 20px;
+}
+}
+#about_2 p {
+	padding: 20px;
+}
+#about_2 {
+	margin-bottom: 10px;
+	padding: 15px;
+	min-height: 300px;
+	font-weight: 600;
+	font-size: 21px;
+	font-family: "Times New Roman", Times, serif;
+	justify-content: center;
+	align-items: center;
+}
+#myimage{
+    margin-bottom: 20px;
+}
+#myimage {
+	border-radius: 50%;
+}

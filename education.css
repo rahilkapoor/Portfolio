@@ -1,0 +1,29 @@
+#education {
+	background-color: white;
+}
+#education h2 {
+	color: #c03628;
+}
+#education h3 {
+	font-size: 30px;
+	color: #c03628;
+	margin-bottom: 16px;
+	font-weight: bold;
+}
+#education h3:hover {
+	font-size: 32px;
+	color: #c03628;
+	margin-bottom: 14px;
+	font-weight: bold;
+}
+#education hr {
+	background: #c03628;
+}
+.education_images {
+	height: 300px;
+	width: 100%;
+}
+.description {
+	margin: 20px auto;
+	font-weight: bold;
+}

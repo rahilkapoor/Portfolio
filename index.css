@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	font-size: 1rem;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+body {
+	background: white;
+}
+
+.jumbotron {
+	margin: 0px auto;
+	padding: 70px 30px;
+	background: #9c27b0;
+	color: white;
+	border-radius: 0;
+}
+
+.jumbotron p {
+	font-size: 20px;
+}
+
+.navbar {
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+h1 {
+	padding-top: 15px;
+	font-size: 55px;
+	font-weight: 300;
+}
+
+h2 {
+	padding-top: 15px;
+	margin-bottom: 20px;
+	font-size: 48px;
+	font-family: fantasy;
+	color: rgba(33, 33, 33, 0.7);
+}
+
+h3 {
+	padding-top: 15px;
+	margin-bottom: 50px;
+	font-size: 48px;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+hr {
+	border: none;
+	height: 2px;
+	background: #555;
+}
+
+section {
+	margin-top: 6rem;
+	background-color: white;
+}
+
+label {
+	font-size: 42px;
+	color: rgba(33, 33, 33, 0.7);
+	font-weight: bold;
+}
+
+.footer {
+	background-color: #333;
+	color: white;
+	margin: 80px 0 0 0;
+	padding: 60px 0 0 0;
+}
+
+.follow {
+	margin: 10px;
+	padding: 10px;
+}

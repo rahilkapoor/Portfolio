@@ -1,0 +1,112 @@
+#skills {
+	background-color: white;
+}
+#skills h2 {
+	color: #2196f3;
+}
+#skills h3 {
+	color: #1976d2;
+	font-size: 30px;
+}
+#skills hr {
+	background: #2196f3;
+}
+#skills p {
+	color: #444;
+	font-weight: bold;
+}
+
+.bar {
+	width: 100%;
+	background-color: #555;
+	margin-bottom: 30px;
+	border-radius: 50px;
+}
+
+.skills {
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	color: white;
+	font-weight: bold;
+}
+
+.html {
+	width: 90%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #4caf50;
+}
+
+.css {
+	width: 80%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #4d65ed;
+}
+
+.js {
+	width: 65%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #ff4500;
+}
+
+.bootstrap {
+	width: 95%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #9c27b0;
+}
+
+.php {
+	width: 55%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: orange;
+}
+
+.sql {
+	width: 60%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: orangered;
+}
+
+.python {
+	width: 85%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #4caf50;
+}
+
+.c {
+	width: 70%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #2196f3;
+}
+
+.cpp {
+	width: 75%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #4d65ed;
+}
+
+.react {
+	width: 40%;
+	border-radius: 100px;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background-color: #e40000;
+}

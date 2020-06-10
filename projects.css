@@ -1,0 +1,48 @@
+#projects {
+	background-color: white;
+}
+#projects h2 {
+	color: #9c27b0;
+}
+
+#projects hr {
+	background: #9c27b0;
+}
+
+.project {
+	margin: 20px;
+	background: white;
+	max-height: 400px;
+	box-shadow: 0 0 8px #9c27b0;
+	border-radius: 7px;
+	min-height: 350px;
+}
+
+.project:hover {
+	margin: 14px 20px 14px 20px;
+	background: white;
+	max-height: 400px;
+	box-shadow: 0 0 15px #9c27b0;
+}
+.project_body {
+	padding: 20px;
+	margin: 5px;
+}
+.project_title {
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	color: #9c27b0;
+}
+.project_body a {
+	width: 100%;
+	font-size: 20px;
+	background: #9c27b0;
+	border: none;
+}
+.project_body a:hover {
+	background: #9c27b0;
+}
+.project_body a:focus {
+	background: #9c27b0;
+}
